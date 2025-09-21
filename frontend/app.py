@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # --- Configuration ---
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "https://doc-checker-frontend.onrender.com"
 
 # --- UI Layout ---
 st.set_page_config(page_title="Smart Doc Checker", layout="wide")
