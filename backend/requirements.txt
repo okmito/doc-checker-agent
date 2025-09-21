@@ -5,3 +5,4 @@ pydantic-settings
 python-dotenv
 python-multipart
 cerebras-cloud-sdk
+gunicorn
